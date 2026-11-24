@@ -16,7 +16,7 @@ cd ../frontend && npm install
 
 ### Step 2: Configure Environment Variables
 
-`frontend/.env.example` are provided:
+`frontend/.env` are provided:
 
 ```bash
 
